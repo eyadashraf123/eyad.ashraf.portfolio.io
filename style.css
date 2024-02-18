@@ -440,10 +440,10 @@ footer .social-icons a:hover {
   .main h3 {
       font-size: 1.5em;
   }
-  .main .myPhoto {
+  .main .profile {
       margin-top: 100px;
   }
-  .main .myPhoto img {
+  .main .profile img {
       display: none;
   }
 
@@ -489,7 +489,7 @@ footer .social-icons a:hover {
   .main h1 {
       font-size: 2.1em;
   }
-  .main .myPhoto img {
+  .main .profile img {
       display: none;
   }
 }
